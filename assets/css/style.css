@@ -91,4 +91,12 @@ body{
     background-color: red;
     color: black;
 }
+.yourOpponent{
+    float: left;
+}
+.action{
+    font-size: 24px;
+    font-family: 'Metamorphous', cursive;
+    color: red; 
+}
 
