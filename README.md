@@ -9,8 +9,8 @@ This is a basic Mortal Kombat themed fighting game. The game works as follows:
 2. All other fighters are transferred into an opponents section.
 3. User selects which opponent they want to face.
 4. User clicks attack button, which damages their opponent, but also triggers a counter attack.
-  - Stats are listed next to attack button, and HP decreases below user's and opponent's picture. 
-  - User's attack power increases by 11 points with each new attack.
+    - Stats are listed next to attack button, and HP decreases below user's and opponent's picture. 
+    - User's attack power increases by 11 points with each new attack.
 5. If user defeats opponent, they select a new opponent.
 6. User repeats above steps until all opponents are defeated.
 
